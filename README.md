@@ -28,4 +28,4 @@ I am Miguel Mistica, a tech enthusiast with a passion for coding and robust data
 
 ## Contact
 
-- **Email:** [migs.mistica112103@gmail.com](mailto:migs.mistica@gmail.com)
+- **Email:** [migs.mistica@gmail.com](mailto:migs.mistica@gmail.com)
