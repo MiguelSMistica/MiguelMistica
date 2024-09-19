@@ -24,7 +24,7 @@ I am Miguel Mistica, a tech enthusiast with a passion for coding and robust data
 
 - **Programming:** Java, Javascript
 - **Databases:** IBM DB2 Cloud, Firebase Database, MongoDB
-- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML, IntelliJ, PyCharm, Android Studio, Pentaho
+- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML, IntelliJ, PyCharm, Android Studio, Pentaho, MongoDB, Firebase
 
 ## Contact
 
